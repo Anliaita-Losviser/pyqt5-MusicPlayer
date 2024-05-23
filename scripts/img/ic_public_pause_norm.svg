@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--
+  - Copyright (c) 华南理工大学学生创新团队 Last Update: 2024-05-23 21:33:27. All Rights Reserved.
+  -
+  - @Project name and File name:Player_py - ic_public_pause_norm.svg
+  -
+  - Redistribution and use in source and binary forms, with or without
+  - modification, are permitted provided that the following conditions are met:
+  - Redistributions of source code must retain the above copyright notice,
+  - this list of conditions and the following disclaimer.
+  - Redistributions in binary form must reproduce the above copyright
+  - notice, this list of conditions and the following disclaimer in the
+  - documentation and/or other materials provided with the distribution.
+  - Neither the name of the developer nor the names of its
+  - contributors may be used to endorse or promote products derived from
+  - this software without specific prior written permission.
+  - 重新分发和使用源代码和二进制形式的代码，无论是否进行修改，都是允许的，只要满足以下条件：
+  - 重新分发源代码时，必须保留上述版权通知、本条件列表以及以下免责声明。
+  - 以二进制形式重新分发时，必须在分发时提供的文档或其他材料中复制上述版权通知、本条件列表以及以下免责声明。
+  - 未经事先书面许可，不得使用开发者或贡献者的名称来认可或推广从本软件派生出来的产品。
+  -
+  - Disclaimer
+  - This software is provided "as is" without any express or implied warranty,
+  - including but not limited to the warranties of merchantability,
+  - fitness for a particular purpose, and non-infringement.
+  - The risk of using this software lies with the user. The developers or contributors shall not be liable for any direct,
+  - indirect, incidental, special, exemplary, or consequential damages resulting from the use of this software.
+  - To the maximum extent permitted by law, the developers or contributors shall not be responsible for any claims,
+  - losses, liabilities, damages, costs, or expenses arising from the use or inability to use this software.
+  - 免责声明
+  - 本软件按“现状”提供，不附带任何形式的明示或暗示保证，包括但不限于对适销性、特定用途的适用性或非侵权性的保证。
+  - 使用本软件的风险由用户自行承担。开发者或贡献者不对因使用本软件而导致的任何直接、间接、偶然、特殊、惩戒性或后果性损害承担任何责任。
+  - 在法律允许的最大范围内，开发者或贡献者对于因使用或无法使用本软件而产生的任何索赔、损失、责任、损害、成本或费用均不承担责任。
+  -->
+
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Public/ic_public_pause_norm</title>
+    <defs>
+        <path d="M12,1 C18.0751322,1 23,5.92486775 23,12 C23,18.0751322 18.0751322,23 12,23 C5.92486775,23 1,18.0751322 1,12 C1,5.92486775 5.92486775,1 12,1 Z M12,2.5 C6.75329488,2.5 2.5,6.75329488 2.5,12 C2.5,17.2467051 6.75329488,21.5 12,21.5 C17.2467051,21.5 21.5,17.2467051 21.5,12 C21.5,6.75329488 17.2467051,2.5 12,2.5 Z M9.5,7.5 C10.0522847,7.5 10.5,7.94771525 10.5,8.5 L10.5,15.5 C10.5,16.0522847 10.0522847,16.5 9.5,16.5 C8.94771525,16.5 8.5,16.0522847 8.5,15.5 L8.5,8.5 C8.5,7.94771525 8.94771525,7.5 9.5,7.5 Z M14.5,7.5 C15.0522847,7.5 15.5,7.94771525 15.5,8.5 L15.5,15.5 C15.5,16.0522847 15.0522847,16.5 14.5,16.5 C13.9477153,16.5 13.5,16.0522847 13.5,15.5 L13.5,8.5 C13.5,7.94771525 13.9477153,7.5 14.5,7.5 Z" id="path-1"></path>
+    </defs>
+    <g id="Public/ic_public_pause_norm" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <use id="形状结合" fill="#000000" fill-rule="nonzero" xlink:href="#path-1"></use>
+    </g>
+</svg>

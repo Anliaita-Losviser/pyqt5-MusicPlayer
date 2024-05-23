@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--
+  - Copyright (c) 华南理工大学学生创新团队 Last Update: 2024-05-23 21:33:27. All Rights Reserved.
+  -
+  - @Project name and File name:Player_py - ic_public_random.svg
+  -
+  - Redistribution and use in source and binary forms, with or without
+  - modification, are permitted provided that the following conditions are met:
+  - Redistributions of source code must retain the above copyright notice,
+  - this list of conditions and the following disclaimer.
+  - Redistributions in binary form must reproduce the above copyright
+  - notice, this list of conditions and the following disclaimer in the
+  - documentation and/or other materials provided with the distribution.
+  - Neither the name of the developer nor the names of its
+  - contributors may be used to endorse or promote products derived from
+  - this software without specific prior written permission.
+  - 重新分发和使用源代码和二进制形式的代码，无论是否进行修改，都是允许的，只要满足以下条件：
+  - 重新分发源代码时，必须保留上述版权通知、本条件列表以及以下免责声明。
+  - 以二进制形式重新分发时，必须在分发时提供的文档或其他材料中复制上述版权通知、本条件列表以及以下免责声明。
+  - 未经事先书面许可，不得使用开发者或贡献者的名称来认可或推广从本软件派生出来的产品。
+  -
+  - Disclaimer
+  - This software is provided "as is" without any express or implied warranty,
+  - including but not limited to the warranties of merchantability,
+  - fitness for a particular purpose, and non-infringement.
+  - The risk of using this software lies with the user. The developers or contributors shall not be liable for any direct,
+  - indirect, incidental, special, exemplary, or consequential damages resulting from the use of this software.
+  - To the maximum extent permitted by law, the developers or contributors shall not be responsible for any claims,
+  - losses, liabilities, damages, costs, or expenses arising from the use or inability to use this software.
+  - 免责声明
+  - 本软件按“现状”提供，不附带任何形式的明示或暗示保证，包括但不限于对适销性、特定用途的适用性或非侵权性的保证。
+  - 使用本软件的风险由用户自行承担。开发者或贡献者不对因使用本软件而导致的任何直接、间接、偶然、特殊、惩戒性或后果性损害承担任何责任。
+  - 在法律允许的最大范围内，开发者或贡献者对于因使用或无法使用本软件而产生的任何索赔、损失、责任、损害、成本或费用均不承担责任。
+  -->
+
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Public/ic_public_random</title>
+    <defs>
+        <path d="M22.5428932,17 C22.6755015,17 22.8026784,17.0526784 22.8964466,17.1464466 C23.0917088,17.3417088 23.0917088,17.6582912 22.8964466,17.8535534 L22.8964466,17.8535534 L20.6035534,20.1464466 C20.5097852,20.2402148 20.3826082,20.2928932 20.25,20.2928932 C19.9738576,20.2928932 19.75,20.0690356 19.75,19.7928932 L19.75,19.7928932 L19.75,18.4971068 L19.5715331,18.4936768 C18.2268663,18.4305831 16.9465051,17.8973966 15.9545082,16.9874231 L15.7600201,16.8004323 L12.768,13.785 L13.829,12.725 L16.8246907,15.7437978 C17.5656306,16.4903728 18.5548505,16.9336053 19.5993305,16.9931152 L19.8412575,17 Z M20.25,3.70710678 C20.3826082,3.70710678 20.5097852,3.7597852 20.6035534,3.85355339 L22.8964466,6.14644661 C23.0917088,6.34170876 23.0917088,6.65829124 22.8964466,6.85355339 C22.8026784,6.94732158 22.6755015,7 22.5428932,7 L19.8412575,7 C18.7085073,7 17.622626,7.45219834 16.8246907,8.25620224 L8.34495239,16.8004323 C7.26539288,17.8882022 5.7962594,18.5 4.26371502,18.5 L1.75,18.5 C1.33578644,18.5 1,18.1642136 1,17.75 C1,17.3357864 1.33578644,17 1.75,17 L4.26371502,17 C5.39646521,17 6.48234648,16.5478017 7.28028177,15.7437978 L15.7600201,7.19956774 C16.8181766,6.13336357 18.250613,5.52444573 19.7501835,5.50072036 L19.75,4.20710678 C19.75,3.93096441 19.9738576,3.70710678 20.25,3.70710678 Z M4.26371502,5.5 C5.70610973,5.5 7.09233423,6.0419385 8.15046426,7.01257686 L8.34495239,7.19956774 L11.364,10.242 L10.303,11.302 L7.28028177,8.25620224 C6.53934186,7.50962719 5.550122,7.06639469 4.50564197,7.00688482 L4.26371502,7 L1.75,7 C1.33578644,7 1,6.66421356 1,6.25 C1,5.87030423 1.28215388,5.55650904 1.64822944,5.50684662 L1.75,5.5 L4.26371502,5.5 Z" id="path-1"></path>
+    </defs>
+    <g id="Public/ic_public_random" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <use id="合并形状" fill="#000000" fill-rule="nonzero" xlink:href="#path-1"></use>
+    </g>
+</svg>

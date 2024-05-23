@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--
+  - Copyright (c) 华南理工大学学生创新团队 Last Update: 2024-05-23 21:33:27. All Rights Reserved.
+  -
+  - @Project name and File name:Player_py - ic_public_order_play.svg
+  -
+  - Redistribution and use in source and binary forms, with or without
+  - modification, are permitted provided that the following conditions are met:
+  - Redistributions of source code must retain the above copyright notice,
+  - this list of conditions and the following disclaimer.
+  - Redistributions in binary form must reproduce the above copyright
+  - notice, this list of conditions and the following disclaimer in the
+  - documentation and/or other materials provided with the distribution.
+  - Neither the name of the developer nor the names of its
+  - contributors may be used to endorse or promote products derived from
+  - this software without specific prior written permission.
+  - 重新分发和使用源代码和二进制形式的代码，无论是否进行修改，都是允许的，只要满足以下条件：
+  - 重新分发源代码时，必须保留上述版权通知、本条件列表以及以下免责声明。
+  - 以二进制形式重新分发时，必须在分发时提供的文档或其他材料中复制上述版权通知、本条件列表以及以下免责声明。
+  - 未经事先书面许可，不得使用开发者或贡献者的名称来认可或推广从本软件派生出来的产品。
+  -
+  - Disclaimer
+  - This software is provided "as is" without any express or implied warranty,
+  - including but not limited to the warranties of merchantability,
+  - fitness for a particular purpose, and non-infringement.
+  - The risk of using this software lies with the user. The developers or contributors shall not be liable for any direct,
+  - indirect, incidental, special, exemplary, or consequential damages resulting from the use of this software.
+  - To the maximum extent permitted by law, the developers or contributors shall not be responsible for any claims,
+  - losses, liabilities, damages, costs, or expenses arising from the use or inability to use this software.
+  - 免责声明
+  - 本软件按“现状”提供，不附带任何形式的明示或暗示保证，包括但不限于对适销性、特定用途的适用性或非侵权性的保证。
+  - 使用本软件的风险由用户自行承担。开发者或贡献者不对因使用本软件而导致的任何直接、间接、偶然、特殊、惩戒性或后果性损害承担任何责任。
+  - 在法律允许的最大范围内，开发者或贡献者对于因使用或无法使用本软件而产生的任何索赔、损失、责任、损害、成本或费用均不承担责任。
+  -->
+
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Public/ic_public_order_play</title>
+    <defs>
+        <path d="M21.5428932,14.5 C21.6755015,14.5 21.8026784,14.5526784 21.8964466,14.6464466 C22.0917088,14.8417088 22.0917088,15.1582912 21.8964466,15.3535534 L21.8964466,15.3535534 L19.6035534,17.6464466 C19.5097852,17.7402148 19.3826082,17.7928932 19.25,17.7928932 C18.9738576,17.7928932 18.75,17.5690356 18.75,17.2928932 L18.75,17.2928932 L18.75,15.9991068 L2.75,16 C2.37030423,16 2.05650904,15.7178461 2.00684662,15.3517706 L2,15.25 C2,14.8357864 2.33578644,14.5 2.75,14.5 L2.75,14.5 Z M19.25,6.45710678 C19.3826082,6.45710678 19.5097852,6.5097852 19.6035534,6.60355339 L21.8964466,8.89644661 C22.0917088,9.09170876 22.0917088,9.40829124 21.8964466,9.60355339 C21.8026784,9.69732158 21.6755015,9.75 21.5428932,9.75 L2.75,9.75 C2.33578644,9.75 2,9.41421356 2,9 C2,8.58578644 2.33578644,8.25 2.75,8.25 L18.75,8.24910678 L18.75,6.95710678 C18.75,6.68096441 18.9738576,6.45710678 19.25,6.45710678 Z" id="path-1"></path>
+    </defs>
+    <g id="Public/ic_public_order_play" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <use id="合并形状" fill="#000000" xlink:href="#path-1"></use>
+    </g>
+</svg>
