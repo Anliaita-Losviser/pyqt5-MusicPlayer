@@ -459,6 +459,6 @@ class PlayerMainWindow(UIele.QWidget):
         self.setGeometry(100, 100, width, height)  # 设置窗口位置和大小
     
     def SetWindowMinSize(self):
-        width = self.ScreenSize.width() * 0.3
+        width = self.ScreenSize.width() * 0.4
         height = self.ScreenSize.height() * 0.3
         self.setMinimumSize(width, height)
