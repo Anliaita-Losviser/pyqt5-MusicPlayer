@@ -462,3 +462,7 @@ class PlayerMainWindow(UIele.QWidget):
         width = self.ScreenSize.width() * 0.3
         height = self.ScreenSize.height() * 0.3
         self.setMinimumSize(width, height)
+
+    def test(self):
+        #git测试
+        pass
